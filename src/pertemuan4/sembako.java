@@ -12,5 +12,8 @@ public class sembako {
         // Memanggil method override (polymorfisme)
         beras.tampilData();
         susu.tampilData();
+        
+        BarangMakanan BarangMakanan2 = new BarangMakanan();
+        
     }
 }
